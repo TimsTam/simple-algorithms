@@ -1,1 +1,1 @@
-# simple-algorithms
+# Simple Computing Algorithms
