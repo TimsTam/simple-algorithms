@@ -1,2 +1,2 @@
 # Simple Computing Algorithms
-Mulitple simple computing algorithms developed in python.
+Multiple simple computing algorithms developed in python.
